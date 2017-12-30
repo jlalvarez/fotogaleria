@@ -1,0 +1,23 @@
+{
+  "name": "fotogaleria",
+  "version": "0.0.1",
+  "description": "Foto Galería",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlalvarez/fotogaleria.git"
+  },
+  "author": "JL Álvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlalvarez/fotogaleria/issues"
+  },
+  "homepage": "https://github.com/jlalvarez/fotogaleria#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4"
+  }
+}
